@@ -1,6 +1,6 @@
 # 🧹 Layoffs Dataset – Data Cleaning with MySQL
 
-This project performs a complete data cleaning process using MySQL on a dataset of global layoffs available on [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022). The goal is to transform the raw dataset into a clean, standardized, and analytics-ready format that can later be used for further data exploration, reporting, and visualization.
+This project performs a complete data cleaning process using MySQL on a dataset of global layoffs available on [Kaggle - layoffs](https://www.kaggle.com/datasets/swaptr/layoffs-2022). The goal is to transform the raw dataset into a clean, standardized, and analytics-ready format that can later be used for further data exploration, reporting, and visualization.
 
 ---
 
@@ -24,7 +24,7 @@ Creating a clean analytics table for further analysis
 
 ## 🎯 Project Goals
 
-🔍 Identify and remove exact and near-duplicate records
+🔍 Identify and remove duplicate records
 
 ✏️ Standardize text fields like industry and country names
 
