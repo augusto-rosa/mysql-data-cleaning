@@ -21,7 +21,7 @@ Fixing incorrect or inconsistent entries (e.g., dates, strings, formatting)
 Creating a clean analytics table for further analysis
 
 ## 🔍 Why I Built This Project
-This project was initiated to enhance my **proficiency in SQL**, particularly in the realm of data cleaning—a fundamental step in any data analysis workflow. Utilizing a publicly available dataset on global tech company layoffs from Kaggle, I aimed to simulate real-world data preprocessing scenarios. The objectives were:
+This project was initiated to enhance my **proficiency in SQL**, particularly in the realm of data cleaning—a fundamental step in any data analysis workflow. Utilizing a publicly available dataset on global tech company layoffs from Kaggle, I aimed to simulate **real-world data preprocessing scenarios**. The objectives were:
 
 **Practice SQL-based data cleaning**: Implementing techniques such as removing duplicates, handling null values, and standardizing data formats.
 
