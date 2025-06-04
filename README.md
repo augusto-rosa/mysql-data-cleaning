@@ -61,11 +61,11 @@ This project was initiated to enhance my **proficiency in SQL**, particularly in
 
 🎓 Completing this project provided several key takeaways:
 
-**Enhanced SQL skills**: Improved my ability to write efficient SQL queries for data cleaning tasks.
+**Enhanced SQL skills**: Improved my ability to write efficient and advanced SQL queries for data cleaning tasks.
 
 **Attention to data quality**: Recognized the importance of clean data in deriving accurate insights.
 
-**Problem-solving**: Developed strategies to tackle common data issues such as duplicates and inconsistent formats.
+**Problem-solving**: Developed strategies to deal with common data issues such as duplicates and inconsistent formats.
 
 **Preparedness for real-world data**: Gained experience that is directly applicable to real-world data analysis projects.
 
