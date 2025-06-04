@@ -58,7 +58,8 @@ This project was initiated to enhance my **proficiency in SQL**, particularly in
 ---
 
 ## ✅ Conclusion and Learnings
-Completing this project provided several key takeaways:
+
+🎓 Completing this project provided several key takeaways:
 
 **Enhanced SQL skills**: Improved my ability to write efficient SQL queries for data cleaning tasks.
 
